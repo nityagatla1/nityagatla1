@@ -1,7 +1,7 @@
 
 # Hi, I'm Nitya Gatla 👋
 
-I’m a Data Scientist at Ally Financial who loves diving deep into data to uncover insights and solve cool problems! Whether it's building predictive models, creating stunning data visualizations, or wrangling messy datasets, I’m all about turning raw data into stories that drive decisions.
+I’m a Data Scientist who loves diving deep into data to uncover insights and solve cool problems! Whether it's building predictive models, creating stunning data visualizations, or wrangling messy datasets, I’m all about turning raw data into stories that drive decisions.
 
 Here, you'll find my playground of projects—from machine learning adventures to creative data analyses. I'm always exploring new tools, experimenting with Python, SQL, and all things data science!
 
